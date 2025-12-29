@@ -79,7 +79,6 @@ Percentages are computed relative to total tweet volume or total impressions per
 ### Notes on Construction
 - Tweets are tokenised prior to dictionary matching.  
 - Sentiment and emotion scores are computed at the post level and aggregated using **unweighted** and **impression-weighted averages**.
-- 
 
 ## Citation
 This repository supports an **ongoing work in progress**.  
@@ -90,6 +89,15 @@ If you use this data, please cite the following paper:
 > Working paper, Zayed University.
 
 A full citation will be added once the paper is publicly available.
+
+## License
+
+This repository is released under the **MIT License**.
+
+You are free to use, copy, modify, merge, publish, distribute, and adapt the contents of this repository for academic, policy, and non-commercial purposes, subject to the terms of the MIT License.
+
+While the MIT License does not legally require citation, **academic use of these data requires appropriate citation**. 
+
 
 ## Disclaimer
 The data are provided for research and educational purposes only.  
