@@ -35,7 +35,7 @@ All measures are aggregated at the firm–date level and, where applicable, weig
   Bing, NRC, and AI sentiment scores.
 
 ### Emotion Measures
-(All based on lexicon matching of lemmatised tokens)
+(All based on lexicon matching of tokens)
 
 - **Anger**  
 - **Fear**  
